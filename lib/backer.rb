@@ -9,4 +9,5 @@ class Backer
 
     @backed_projects << title.new
   end
+end
 
